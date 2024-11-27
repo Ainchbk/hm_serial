@@ -1,0 +1,5 @@
+Path,Type,Size
+test_folder\1.txt,File,0
+test_folder\2.bmp,File,0
+test_folder\new folder,Directory,0
+test_folder\new folder\3.docx,File,0
